@@ -2,7 +2,7 @@
 
 [Homepage](https://hughyau.com) · [Linkedin](https://www.linkedin.com/in/hugh-qiu-a15686273)
 
-![Skills](https://skillicons.dev/icons?i=py,matlab,latex,github,c,cpp,cs,html,css,md,git,mysql,linux,vscode)
+![Skills](https://skillicons.dev/icons?i=py,matlab,latex,github,c,cpp,html,css,md,git,mysql,linux,vscode)
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=HughYau&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HughYau&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Hugh's GitHub stats" height="185px">
