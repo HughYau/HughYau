@@ -1,5 +1,7 @@
 # Hi 👋 Hugh here.
 
+* I am an incoming doctoral researcher in Max Planck Institute for Human Cognitive and Brain Sciences, now a graduate student in the M.Sc. in IT & Cognition program at the University of Copenhagen, fully funded by the Danish Governmental Scholarship. My academic journey includes a dual background in mathematics and economics, complemented by a minor in cognitive science, earned from Renmin University of China, where I graduated as an Outstanding Graduate in School of Information.
+
 [Homepage](https://hughyau.com) · [Linkedin](https://www.linkedin.com/in/hugh-qiu-a15686273)
 
 ![Skills](https://skillicons.dev/icons?i=py,matlab,latex,github,c,cpp,html,css,md,git,mysql,linux,vscode)
