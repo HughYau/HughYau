@@ -1,6 +1,6 @@
 # Hi 👋 Hugh here.
 
-* I am an incoming doctoral researcher in Max Planck Institute for Human Cognitive and Brain Sciences
+* I am a doctoral researcher in Max Planck Institute for Human Cognitive and Brain Sciences
 * M.Sc. in IT & Cognition program at the University of Copenhagen, fully funded by the Danish Governmental Scholarship.
 * My academic journey includes a dual background in mathematics and economics, complemented by a minor in cognitive science, earned from Renmin University of China, where I graduated as an Outstanding Graduate in School of Information.
 
