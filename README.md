@@ -4,7 +4,7 @@
 * M.Sc. in IT & Cognition program at the University of Copenhagen, fully funded by the Danish Governmental Scholarship.
 * My academic journey includes a dual bachelor in mathematics and economics, earned from Renmin University of China, where I graduated as an Outstanding Graduate.
 
-[Linkedin](https://www.linkedin.com/in/hugh-qiu-a15686273)
+[Linkedin](https://www.linkedin.com/in/renxiang-q-a15686273)
 
 ![Skills](https://skillicons.dev/icons?i=py,matlab,latex,github,c,cpp,html,css,md,git,mysql,linux,vscode)
 
