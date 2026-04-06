@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋 I'm Renxiang</h1>
 <p align="center"><strong>Neural Engineering × AI for Science</strong></p>
 
-- Doctoral researcher at the Max Planck Institute for Human Cognitive and Brain Sciences
+- I am currently a doctoral researcher at the Max Planck Institute for Human Cognitive and Brain Sciences
 - M.Sc. in IT & Cognition, University of Copenhagen  
   fully funded by the Danish Government Scholarship
 - Dual bachelor's degree in Mathematics and Economics, Renmin University of China  
